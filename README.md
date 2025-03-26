@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">Hola, Soy sebastián. <br>Este desarollo es para el Servicio Geológico Colombiano. 
+<p align="left">Hola, Soy sebastián Rodríguez, aplico para el puesto de FullStack Developer. 
+   
+   <br>Este desarollo es para el Servicio Geológico Colombiano. 
    
    <br>Mil gracias por la oportunidad.</p>
 
