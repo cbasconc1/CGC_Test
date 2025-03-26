@@ -8,7 +8,9 @@
    
    <br>Mil gracias por la oportunidad.</p>
 
-   <div align="center">![](https://github.com/cbasconc1/CGC_Test/blob/main/sgc.jpg)</div>
+   <p align="center">
+  <img src="https://raw.githubusercontent.com/cbasconc1/CGC_Test/main/sgc.jpg" alt="Descripción de la imagen" width="400">
+</p>
    
 
 
