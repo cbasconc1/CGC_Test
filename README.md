@@ -25,20 +25,7 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado:
 
 ---
 
-### 🛠️ **1. Clonar el repositorio**
+## 🛠️ **1. Clonar el repositorio**
 ```bash
 git clone https://github.com/cbasconc1/CGC_Test.git
 cd CGC_Test
-
-
-cd AngularFont/counter_front  # Ir al proyecto Angular
-npm install                    # Instalar dependencias
-ng serve                       # Ejecutar el proyecto
-
-
-cd restCounter        # Ir al backend
-mvn clean install     # Construir el proyecto
-mvn spring-boot:run   # Ejecutar el servidor
-
-
-<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="Spring Boot"/> <img width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50" alt="Angular"/> <img width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript"/> </p> ```
