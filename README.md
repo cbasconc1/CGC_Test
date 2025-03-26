@@ -12,6 +12,11 @@
 
 <p align="left">✨ Se tiene que iniciar El front y el back para probar el sistema de manera integral.</p>
 
+
+1. **Clonar el repositorio**  
+   ```bash
+   git clone https://github.com/usuario/proyecto.git
+
 ###
 
 <h2 align="left">Tecnologías usadas</h2>
