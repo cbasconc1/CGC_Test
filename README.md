@@ -9,7 +9,7 @@
    <br>Mil gracias por la oportunidad.</p>
 
    <p align="center">
-  <img src="https://raw.githubusercontent.com/cbasconc1/CGC_Test/main/sgc.jpg" alt="Descripción de la imagen" width="400">
+  <img src="https://raw.githubusercontent.com/cbasconc1/CGC_Test/main/sgc.jpg" alt="Descripción de la imagen" width="200">
 </p>
    
 
