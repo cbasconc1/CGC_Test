@@ -45,7 +45,7 @@ cd CGC_Test
 1. **Ir a la carpeta del Backend**
    ```bash
    cd restCounter
-   mvn clean installmvn
+   mvn clean install
    spring-boot:run
    ```
 <div align="center"> La API estará escuchando, podrías usarlo en Postman en: <a href="http://localhost:9090/counter">http://localhost:9090/counter</a> </div>
