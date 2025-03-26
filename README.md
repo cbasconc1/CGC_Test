@@ -15,7 +15,7 @@
 
 1. **Clonar el repositorio**  
    ```bash
-   git clone [https://github.com/usuario/proyecto.git](https://github.com/cbasconc1/CGC_Test.git)
+   git clone https://github.com/cbasconc1/CGC_Test.git
 ###
 
 <h2 align="left">Front Folder</h2>
@@ -52,6 +52,11 @@
 3. **Ejecuta el proyecto**  
    ```bash
    mvn spring-boot:run
+#
+4. **ir a, la API estará escuchando ya.**  
+   ```bash
+   http://localhost:9090/counter
+)
 #
 
 <h2 align="left">Tecnologías usadas</h2>
