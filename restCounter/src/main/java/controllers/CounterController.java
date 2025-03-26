@@ -1,7 +1,7 @@
 package controllers;
 
+import com.fasterxml.jackson.annotation.JsonProperty;
 import infrastructure.Services.CounterService;
-import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
@@ -37,14 +37,11 @@ public class CounterController {
     }
 
     public static class CounterResponse {
-        private int value;
+        @JsonProperty
+        private final int value;
 
         public CounterResponse(int value) {
             this.value = value;
         }
-
-        public int getValue() {
-            return value;
         }
-    }
 }
