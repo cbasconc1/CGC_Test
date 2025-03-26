@@ -12,6 +12,7 @@
 
 <p align="left">✨ Se tienen que iniciar El front y el back para probar el sistema de manera integral.</p>
 
+<p align="left">Se tiene que tener instalado en el sistema Angular-16, Maven, Java y JDK.</p>
 
 1. **Clonar el repositorio**  
    ```bash
