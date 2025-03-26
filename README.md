@@ -38,15 +38,29 @@ cd CGC_Test
    npm install
    ng serve
    ```
-## 🎨 Backend (Spring)
+   <p align="center">
+  Abre en tu navegador: http://localhost:4200
+  </p>
 
-1. **Ir a la carpeta del Backend**  
+## 🛠️ Backend (Spring)
+
+1. **Ir a la carpeta del Backend**
    ```bash
    cd restCounter
    mvn clean installmvn
    spring-boot:run
-  ```
+   ```
+<p align="center">
+  La API estará escuchando en: http://localhost:9090/counter
+</p>
 
 
+<h2 align="left">Tecnologías usadas</h2>
 
-
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="Spring Boot"/>
+  <img width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50" alt="Angular"/>
+  <img width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript"/>
+</p>
