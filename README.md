@@ -38,9 +38,7 @@ cd CGC_Test
    npm install
    ng serve
    ```
-   <p align="center">
-  Abre en tu navegador: http://localhost:4200
-  </p>
+<div align="center"> Abre en tu navegador: <a href="http://localhost:4200">http://localhost:4200</a> </div>
 
 ## 🛠️ Backend (Spring)
 
@@ -50,9 +48,7 @@ cd CGC_Test
    mvn clean installmvn
    spring-boot:run
    ```
-<p align="center">
-  La API estará escuchando en: http://localhost:9090/counter
-</p>
+<div align="center"> Abre en tu navegador: <a href="http://localhost:4200">http://localhost:4200</a> </div>
 
 
 <h2 align="left">Tecnologías usadas</h2>
