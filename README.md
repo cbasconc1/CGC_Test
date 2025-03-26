@@ -16,8 +16,28 @@
 1. **Clonar el repositorio**  
    ```bash
    git clone [https://github.com/usuario/proyecto.git](https://github.com/cbasconc1/CGC_Test.git)
-   hola
 ###
+
+<h2 align="left">Front Folder</h2>
+
+1. **Ir la carpeta del proyecto de Angular**  
+   ```bash
+   cd frontend AngularFont/counter_front
+#
+2. **Instalar dependencias**  
+   ```bash
+   npm install
+#
+
+3. **Ejecutar proyecto**  
+   ```bash
+   ng serve
+#
+
+4. **ir a**  
+   ```bash
+   http://localhost:4200
+#
 
 <h2 align="left">Tecnologías usadas</h2>
 
