@@ -7,9 +7,8 @@ Este desarrollo es para el **Servicio Geológico Colombiano**.
 💡 **Mil gracias por la oportunidad.**  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cbasconc1/CGC_Test/main/sgc.jpg" alt="Descripción de la imagen" width="200">
+  <img src="https://raw.githubusercontent.com/cbasconc1/CGC_Test/main/sgc.jpg" alt="Descripción de la imagen" width="200" style="border-radius: 50%;">
 </p>
-
 ---
 
 ## 🚀 Pasos para ejecutar el proyecto
