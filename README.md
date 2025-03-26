@@ -56,7 +56,6 @@
 4. **ir a, la API estará escuchando ya.**  
    ```bash
    http://localhost:9090/counter
-)
 #
 
 <h2 align="left">Tecnologías usadas</h2>
