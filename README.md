@@ -8,8 +8,8 @@
    
    <br>Mil gracias por la oportunidad.</p>
 
-
-   ![](https://github.com/cbasconc1/CGC_Test/blob/main/sgc.jpg)
+   <div align="center">![](https://github.com/cbasconc1/CGC_Test/blob/main/sgc.jpg)</div>
+   
 
 
 ###
