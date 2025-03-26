@@ -9,7 +9,7 @@
    <br>Mil gracias por la oportunidad.</p>
 
 
-   ![Descripción](https://postimg.cc/3kdsvLXf)
+   ![](https://github.com/cbasconc1/CGC_Test/blob/main/sgc.jpg)
 
 
 ###
