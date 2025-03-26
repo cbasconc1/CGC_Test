@@ -1,0 +1,13 @@
+<h1>¡Hola, Angular!</h1>
+
+<div class="button-container">
+  <app-button action="increment" label="Incrementar"></app-button>
+  <app-button action="decrement" label="Decrementar"></app-button>
+  <app-button action="reset" label="Resetear"></app-button>
+</div>
+
+<button class="show-counter-btn" (click)="mostrarContador()">Mostrar Contador</button>
+
+<div *ngIf="counterValue !== null" class="counter-value">
+  Valor del contador: {{ counterValue }}
+</div>
