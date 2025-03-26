@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Se tiene que iniciar El front y el back para probar el sistema de manera integral.</p>
+<p align="left">✨ Se tienen que iniciar El front y el back para probar el sistema de manera integral.</p>
 
 
 1. **Clonar el repositorio**  
@@ -22,7 +22,7 @@
 
 1. **Ir la carpeta del proyecto de Angular**  
    ```bash
-   cd frontend AngularFont/counter_front
+   cd AngularFont/counter_front
 #
 2. **Instalar dependencias**  
    ```bash
@@ -37,6 +37,21 @@
 4. **ir a**  
    ```bash
    http://localhost:4200
+#
+
+<h2 align="left">Backend Folder</h2>
+
+1. **Ir la carpeta del proyecto de SpringBoot**  
+   ```bash
+   cd restCounter
+#
+2. **Ejecuta Maven**  
+   ```bash
+   mvn clean install
+#
+3. **Ejecuta el proyecto**  
+   ```bash
+   mvn spring-boot:run
 #
 
 <h2 align="left">Tecnologías usadas</h2>
