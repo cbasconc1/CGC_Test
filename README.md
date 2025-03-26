@@ -8,6 +8,10 @@
    
    <br>Mil gracias por la oportunidad.</p>
 
+
+   ![Descripción](https://postimg.cc/3kdsvLXf)
+
+
 ###
 
 <h2 align="left">Pasos para ejecutar el proyecto</h2>
