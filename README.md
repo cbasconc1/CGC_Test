@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">Hola, Soy sebastián. <br>Este desarollo es para el Centro Geológico Colombiano. <br>Mil gracias por la oportunidad.</p>
+<p align="left">Hola, Soy sebastián. <br>Este desarollo es para el Centro Geológico Colombiano. 
+   
+   <br>Mil gracias por la oportunidad.</p>
 
 ###
 
