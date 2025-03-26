@@ -29,3 +29,24 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado:
 ```bash
 git clone https://github.com/cbasconc1/CGC_Test.git
 cd CGC_Test
+```
+## 🎨 Frontend (Angular)
+
+1. **Ir a la carpeta del frontend**  
+   ```bash
+   cd AngularFont/counter_front
+   npm install
+   ng serve
+   ```
+## 🎨 Backend (Spring)
+
+1. **Ir a la carpeta del Backend**  
+   ```bash
+   cd restCounter
+   mvn clean installmvn
+   spring-boot:run
+  ```
+
+
+
+
