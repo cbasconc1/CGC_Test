@@ -48,7 +48,7 @@ cd CGC_Test
    mvn clean installmvn
    spring-boot:run
    ```
-<div align="center"> La API estará escuchando, pod®ías usarlo en Postman en: <a href="http://localhost:9090/counter">http://localhost:9090/counter</a> </div>
+<div align="center"> La API estará escuchando, podrías usarlo en Postman en: <a href="http://localhost:9090/counter">http://localhost:9090/counter</a> </div>
 
 
 <h2 align="left">Tecnologías usadas</h2>
