@@ -15,8 +15,8 @@
 
 1. **Clonar el repositorio**  
    ```bash
-   git clone https://github.com/usuario/proyecto.git
-
+   git clone [https://github.com/usuario/proyecto.git](https://github.com/cbasconc1/CGC_Test.git)
+   hola
 ###
 
 <h2 align="left">Tecnologías usadas</h2>
