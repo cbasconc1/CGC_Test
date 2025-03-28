@@ -37,7 +37,7 @@ public class CounterController {
     }
 
     public static class CounterResponse {
-        @JsonProperty
+        @JsonProperty //Jackson
         private final int value;
 
         public CounterResponse(int value) {

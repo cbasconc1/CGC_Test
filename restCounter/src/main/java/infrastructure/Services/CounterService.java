@@ -13,10 +13,6 @@ public class CounterService implements ICounter {
         return value;
     }
 
-    @Override
-    public void setValue(int value) {
-        this.value = value;
-    }
 
     @Override
     public int increment() {

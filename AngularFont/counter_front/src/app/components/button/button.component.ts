@@ -1,4 +1,3 @@
-// src/app/componentes/button/button.component.ts
 import { Component, Input } from '@angular/core';
 import { CounterApiService, CounterResponse } from '../../services/counter-api.service';
 
